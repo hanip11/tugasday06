@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nama_item" type="id" />
+    <item name="des_item" type="id" />
+    <item name="harga_item" type="id" />
+    <item name="logo_motor" type="id" />
+</resources>
